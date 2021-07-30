@@ -1,0 +1,25 @@
+{
+  "name": "ta_bot",
+  "version": "1.0.0",
+  "description": "Bot creado con Node js para publicar tweets programados.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/violetapugliese/ta_bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/violetapugliese/ta_bot/issues"
+  },
+  "homepage": "https://github.com/violetapugliese/ta_bot#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twitter-api-client": "^1.3.8"
+  }
+}
