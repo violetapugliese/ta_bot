@@ -1,12 +1,12 @@
-// require('dotenv').config()
-// const {TwitterClient} = require('twitter-api-client')
+require('dotenv').config()
+const {TwitterClient} = require('twitter-api-client')
 
-// const twitterClient = new TwitterClient({
-//     apiKey: process.env.TWITTER_API_KEY,
-//     apiSecret: process.env.TWITTER_API_SECRET,
-//     accessToken: process.env.TWITTER_ACCESS_TOKEN,
-//     accessTokenSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET
-// })
+const twitterClient = new TwitterClient({
+    apiKey: process.env.TWITTER_API_KEY,
+    apiSecret: process.env.TWITTER_API_SECRET,
+    accessToken: process.env.TWITTER_ACCESS_TOKEN,
+    accessTokenSecret: process.env.TWITTER_ACCESS_TOKEN_SECRET
+})
 
 var date = new Date()
 var day = date.getDate() + '-' + (date.getMonth() + 1) + '-' + date.getFullYear();
