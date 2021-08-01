@@ -17,9 +17,8 @@ fs.readFile('proverb.json', 'utf8', function (err, data) {
     if (err) throw err;
     obj = JSON.parse(data);
     var aleatory = Math.floor(Math.random() * (0, 87));
-    let tweet = 'Mi consejo para esta semana: ' + obj.texto[aleatory] + day + '#buenlunes'
-
-
+    let tweet = 'El consejo de la tía para esta semana: ' + obj.texto[aleatory] + ' ('+ day +') ' + '#buenlunes'
+    
     twitterClient.tweets.statusesUpdate({
         status: tweet
     }).then (response => {
