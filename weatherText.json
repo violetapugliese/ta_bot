@@ -1,0 +1,66 @@
+{
+    "weatherText": {
+        "verycold": [
+            "Este frío es inhumano!",
+            "No sé vos, yo me vuelvo a la cama.",
+            "Lo importante es tener los pies y la cabeza calientes.",
+            "Lo mejor para el frío es el calor humano.",
+            "Plan de sofá y mantita.",
+            "Buscate alguien que te abrace.",
+            "Tres palabras: Chaleco de lana.",
+            "Abrigate el cuellito.",
+            "No salgas si no es estrictamente necesario.",
+            "¿Dónde está la gente que le gusta el frío?"
+        ],
+        "cold": [
+            "https://www.paulinacocina.net/receta-de-locro-argentino/9829",
+            "https://www.paulinacocina.net/guiso-lentejas-receta-infalible/10685",
+            "https://www.paulinacocina.net/guiso-de-mondongo/22189",
+            "https://www.paulinacocina.net/receta-de-puchero-argentino/7111",
+            "https://www.paulinacocina.net/sopa-de-calabaza-3-recetas-diferentes-e-imperdibles/14091",
+            "https://www.paulinacocina.net/sopa-de-tomate-receta/6349",
+            "https://www.paulinacocina.net/como-hacer-sopa-de-fideos/7883",
+            "https://www.paulinacocina.net/receta-tortas-fritas-caseras/10852",
+            "https://www.paulinacocina.net/callos-a-la-madrilena/22035",
+            "https://www.paulinacocina.net/carbonada-vegana/895",
+            "https://www.paulinacocina.net/estofado-de-pollo-con-papas/22191",
+            "https://www.paulinacocina.net/bifes-a-la-criolla-clasico-argentino/10979",
+            "https://cookpad.com/ar/recetas/15335478-estofado-de-carne?ref=search&search_term=invierno"
+        ],
+        "tempered": [
+            "Disfrutá tu día.",
+            "¿Cómo está el día dóde vos estas?",
+            "¿Cuál es tu temperatura favorita?",
+            "Este clima es ideal!",
+            "Excelente día para esta comunidad!",
+            "¿Qué podemos almorzar hoy?",
+            "Qué día tan agradable!",
+            "Hermosa mañana!",
+            "Me gusta cuando el clima está templado.",
+            "¿Que hacemos este fin de semana?"
+        ],
+        "warm": [
+            "https://www.paulinacocina.net/ensalada-de-repollo-morado-simple-y-deliciosa/9051",
+            "https://www.paulinacocina.net/ensalada-de-rabanitos-como-mi-gusta/5035",
+            "https://www.paulinacocina.net/ensalada-de-hojas-de-remolacha/8532",
+            "https://www.paulinacocina.net/ensaladas-faciles-panceta-croutons/4501",
+            "https://www.paulinacocina.net/ensalada-de-rucula-granola/9447",
+            "https://www.paulinacocina.net/ensalada-rusa-receta-facil-y-nivel-dios/11243",
+            "https://www.paulinacocina.net/ensalada-de-manzana-ensaladas-para-cenar/2774",
+            "https://www.paulinacocina.net/ensalada-cesar-con-pollo/7885",
+            "https://www.paulinacocina.net/ensaladas-de-verano-carpaccio-de-calabacin/9315"
+        ],
+        "veryhot": [
+            "Este calor es insoportable!",
+            "Tomá mucha agua.",
+            "Caminá por la sombra.",
+            "No estés al sol entre las 11 y las 16hs.",
+            "Usá ropa livianita.",
+            "No uses ropa oscura.",
+            "Usen desodorante, por favor.",
+            "Que calor! Igual tomamos unos mates.",
+            "Hata las 19hs no salgo ni loca.",
+            "Qué comemos con este calor?"
+        ]
+    }
+}
